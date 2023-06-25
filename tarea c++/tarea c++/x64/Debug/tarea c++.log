@@ -1,0 +1,7 @@
+﻿  tarea c++.cpp
+C:\Users\OMEN 674\Documents\C++ Tarea Uni\tarea c++\tarea c++\tarea c++.cpp(18,9): warning C4101: 'opcion': variable local sin referencia
+C:\Users\OMEN 674\Documents\C++ Tarea Uni\tarea c++\tarea c++\tarea c++.cpp(15,9): warning C4101: 'saldo_restante': variable local sin referencia
+C:\Users\OMEN 674\Documents\C++ Tarea Uni\tarea c++\tarea c++\tarea c++.cpp(16,9): warning C4101: 'dinero_a_depositar': variable local sin referencia
+C:\Users\OMEN 674\Documents\C++ Tarea Uni\tarea c++\tarea c++\tarea c++.cpp(17,9): warning C4101: 'dinero_a_retirar': variable local sin referencia
+C:\Users\OMEN 674\Documents\C++ Tarea Uni\tarea c++\tarea c++\tarea c++.cpp(14,9): warning C4101: 'saldo_resultado': variable local sin referencia
+  tarea c++.vcxproj -> C:\Users\OMEN 674\Documents\C++ Tarea Uni\tarea c++\x64\Debug\tarea c++.exe
